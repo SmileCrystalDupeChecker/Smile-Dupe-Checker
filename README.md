@@ -21,4 +21,4 @@ P - Opens SmileDupeChecker Gui
 
 O - Shows you ITEMDATA
 
-https://user-images.githubusercontent.com/87954549/161400582-dc79f4cc-b46c-46f6-9e94-21bae374eb03.png
+Source Code at here https://pastebin.com/31PwUZKG
