@@ -20,4 +20,6 @@ O - Shows you ITEMDATA
 
 Source Code at here https://pastebin.com/31PwUZKG
 
-Pic Of the mod useing it ![DUPECHECKER](https://user-images.githubusercontent.com/105170872/167311190-dcb9b884-c252-4d54-99b6-7a12585483e9.png)
+Pic Of the mod useing it
+
+![DUPECHECKER](https://user-images.githubusercontent.com/105170872/167311190-dcb9b884-c252-4d54-99b6-7a12585483e9.png)
