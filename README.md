@@ -18,4 +18,5 @@ Hotkeys:
 (Configurable in Controls Menu)
 
 P - Opens SmileDupeChecker Gui
+
 O - Shows you ITEMDATA
