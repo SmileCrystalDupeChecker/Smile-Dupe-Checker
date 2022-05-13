@@ -6,6 +6,9 @@ A 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds a Dupe Checker to Sk
 This mod adds High-Value Dupe checker into your skyblock experience.
 ![image](https://user-images.githubusercontent.com/87954549/161400582-dc79f4cc-b46c-46f6-9e94-21bae374eb03.png)
 
+![image](https://cdn.discordapp.com/attachments/974669076477648976/974750311082246195/unknown.png)
+
+
 ### SmileCrystal Dupe Checker Download:
 
 A side mod of Skytils/Sbe, An amazing Dupe Checker.
