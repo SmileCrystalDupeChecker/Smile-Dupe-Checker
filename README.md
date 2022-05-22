@@ -38,7 +38,7 @@ Short answer: This mod follows the general interpretation of Hypixel's rules, do
 
 ### Hotkeys:
 (Configurable in Controls Menu)
- - P - Opens SmileCrystal Gui
- - O - Shows you ITEMDATA
+
+/dupecheck
 
 ### SOURCE CODE: [HERE](https://pastebin.com/31PwUZKG)
