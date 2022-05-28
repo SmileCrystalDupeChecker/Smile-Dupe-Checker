@@ -19,7 +19,7 @@ it also show u the UUID of the item
 A side mod of Skytils/Sbe, An amazing Dupe Checker.
 although SBE and Skytils are better in different aspects, NBT is better overall for dupe checking, as skytils and SBE's api lacks in quality.
 
-This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/974669076477648976/974683297873526914/SmileCrystalDupeChecker-1.0.jar)
+This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/974779010116644875/980120001891672144/SmileCrystalDupeChecker-1.0.jar)
 
 ### Update 2.1.3
 Skytils Support, Better api, Faster response time, Cleaner GUI, 1.7.5 is here.
